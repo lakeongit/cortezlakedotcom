@@ -1,0 +1,15 @@
+/* styles.css */
+body {
+    font-family: Arial, sans-serif;
+}
+
+nav a {
+    margin-right: 15px;
+}
+
+@media screen and (max-width: 600px) {
+    nav a {
+        display: block;
+        margin-bottom: 15px;
+    }
+}
