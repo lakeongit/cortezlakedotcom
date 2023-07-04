@@ -5,13 +5,13 @@ This is a web and mobile friendly website for Cortez Lake. It includes a chatbot
 ## Installation
 
 1. Clone the repository:
-git clone https://github.com/lakeongit/myapp.git
+git clone https://github.com/lakeongit/cortezlakedotcom.git
 
-2. Install the dependencies:
-cd myapp
+3. Install the dependencies:
+cd cortezlakedotcom
 npm install
 
-3. Start the server:
+4. Start the server:
 npm start
 
 
