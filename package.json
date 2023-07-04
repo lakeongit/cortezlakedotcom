@@ -1,0 +1,16 @@
+{
+  "name": "myapp",
+  "version": "1.0.0",
+  "description": "A web and mobile friendly website for Cortez Lake",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "helmet": "^4.6.0",
+    "compression": "^1.7.4",
+    "pg-promise": "^10.10.2",
+    "express-validator": "^6.12.1"
+  }
+}
